@@ -10,7 +10,8 @@ def fizzbuzz(int)
   else puts nil
   end
 end
-fizzbuzz(3)
+fizz_3 = fizzbuzz(3)
+fizz_3
 fizzbuzz(5)
 fizzbuzz(15)
 fizzbuzz(4)
