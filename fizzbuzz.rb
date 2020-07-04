@@ -11,7 +11,7 @@ def fizzbuzz(int)
   end
 end
 print fizzbuzz(3)
-puts fizzbuzz(5)
+print fizzbuzz(5)
 puts fizzbuzz(15)
 puts fizzbuzz(4)
 # puts "Welcome to Fizzbuzz. Put a number here!"
