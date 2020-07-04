@@ -12,7 +12,7 @@ def fizzbuzz(int)
 end
 print fizzbuzz(3)
 print fizzbuzz(5)
-puts fizzbuzz(15)
+print fizzbuzz(15)
 puts fizzbuzz(4)
 # puts "Welcome to Fizzbuzz. Put a number here!"
 # number = gets.strip
