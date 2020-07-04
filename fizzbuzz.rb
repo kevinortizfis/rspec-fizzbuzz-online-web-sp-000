@@ -10,10 +10,6 @@ def fizzbuzz(int)
   else puts nil
   end
 end
-print fizzbuzz(3)
-print fizzbuzz(5)
-print fizzbuzz(15)
-print fizzbuzz(4)
 # puts "Welcome to Fizzbuzz. Put a number here!"
 # number = gets.strip
 # num1 = number.to_i
