@@ -10,7 +10,7 @@ def fizzbuzz(int)
   else puts nil
   end
 end
-puts fizzbuzz(3)
+print fizzbuzz(3)
 puts fizzbuzz(5)
 puts fizzbuzz(15)
 puts fizzbuzz(4)
