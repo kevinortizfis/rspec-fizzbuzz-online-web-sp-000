@@ -12,8 +12,9 @@ def fizzbuzz(int)
 end
 fizz_3 = fizzbuzz(3)
 fizz_3
-fizzbuzz(5)
-fizzbuzz(15)
+fizz_5 = fizzbuzz(5)
+fizz_5
+fizz_15 = fizzbuzz(15)
 fizzbuzz(4)
 # puts "Welcome to Fizzbuzz. Put a number here!"
 # number = gets.strip
