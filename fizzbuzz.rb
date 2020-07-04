@@ -15,6 +15,7 @@ fizz_3
 fizz_5 = fizzbuzz(5)
 fizz_5
 fizz_15 = fizzbuzz(15)
+fizz_15
 fizzbuzz(4)
 # puts "Welcome to Fizzbuzz. Put a number here!"
 # number = gets.strip
