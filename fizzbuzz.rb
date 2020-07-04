@@ -5,7 +5,7 @@ def fizzbuzz(int)
     puts "Fizz"
   elsif int.remainder(5) == 0
     puts "Buzz"
-  elsif= int.remainder(3) == 0 && number.remainder(5) == 0
+  elsif int.remainder(3) == 0 && number.remainder(5) == 0
     puts "FizzBuzz"
     else puts nil
   end
